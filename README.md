@@ -1,4 +1,4 @@
-# sequela - sequence ellaborated auditor
+# sequela - sequence elaborated auditor
 
 Sample python script that will evaluate the cost of having synchronization between oracle sequences in a RAC enivironment
 
