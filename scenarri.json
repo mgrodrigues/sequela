@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "test_name": "70_30_ratio",
+      "description": "I couldn't care less about a proper description",
+      "scenarii": [
+        {
+          "node_number": 1,
+          "iterations": 10,
+          "interval": 1,
+          "connection": "username/password@hostname:port/service_name_1"
+        },
+        {
+          "node_number": 2,
+          "iterations": 5,
+          "interval": 5,
+          "connection": "username/password@hostname:port/service_name_2"
+        }
+      ]
+    }
+  ]
+}
